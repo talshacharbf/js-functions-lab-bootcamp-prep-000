@@ -6,6 +6,7 @@ function happyHolidays() {
 function happyHolidaysTo (name) {
   return '${name}'
 }
+
 function say(greeting, firstName) {
   return `${greeting}, ${firstName}!`
 }
