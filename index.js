@@ -1,2 +1,4 @@
 // write your code below!
-Function
+Function happyHolidays() {
+  return "Happy holidays!"
+}
